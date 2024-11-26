@@ -117,7 +117,3 @@ Open your browser and navigate to `http://localhost:3000`
 ## Contribution
 
 Feel free to fork the repository and submit pull requests. Please ensure that you follow the existing code style and add appropriate tests for new features.
-
-## License
-
-[Insert your license information here]
